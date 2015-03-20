@@ -17,7 +17,7 @@ Controle de versões
 -Estudando processos para chegar a uma base de desenvolvimento no padrão MVC.
 - Hoje já encontra embutido 4 FrameWorks sendo eles.
 
-*Para BackEnd (CodeIgniter e AngulasJS)
+*Para BackEnd (CodeIgniter e AngularJS)
 *Para FrontEnd (Bootstrap e Jquery)
 
 *Tudo é possível para quem crê em DEUS
