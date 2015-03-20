@@ -1,0 +1,25 @@
+*************************************************************************************
+*Autor: Walney Moreira Klein
+*Projeto: ParaCima
+*Objetivo: Plataforma para desenvolvimento de Projetos 100% Web
+*Email: walneyk@hotmail.com
+*Skype: masterfacil
+*FaceBook: www.facebook.com/walney.m.klein
+*Empresa: WMK - Software House
+*Cidade:  Nova Friburgo-RJ
+*Pais: Brasil
+*************************************************************************************
+
+Controle de versões
+
+*Beta - 0.0.0.1 - 20/03/2015
+
+-Estudando processos para chegar a uma base de desenvolvimento no padrão MVC.
+- Hoje já encontra embutido 4 FrameWorks sendo eles.
+
+*Para BackEnd (CodeIgniter e AngulasJS)
+*Para FrontEnd (Bootstrap e Jquery)
+
+*Tudo é possível para quem crê em DEUS
+
+------------------------------------------------------------------------------------------------------------------------
